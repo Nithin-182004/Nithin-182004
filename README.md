@@ -1,5 +1,4 @@
-<div align="center">
-  <img src="https://github.com/Nithin-182004.png" alt="Profile Picture" width="150" style="border-radius: 50%;">
+
   <h1>Hi 👋, I'm Nithin R</h1>
   <p>B.Tech in Information Technology at SASTRA Deemed University | Machine Learning Enthusiast | Data Analyst</p>
 
@@ -48,9 +47,6 @@
 - **[Calorie-Burn-Prediction](https://github.com/Nithin-182004/Calorie-Burn-Prediction)**  
   A predictive model for calorie burn estimation using machine learning, developed with Python and scikit-learn.
 
-- **[Adidas-Sales-Report-using-Power-BI](https://github.com/Nithin-182004/Adidas-Sales-Report-using-Power-BI)**  
-  An interactive sales analysis dashboard for Adidas, created to visualize business insights.
-
 - **[Steganography-on-Bald-Eagle-Search-and-Chaotic-Encryption](https://github.com/Nithin-182004/Steganography-on-Bald-Eagle-Search-and-Chaotic-Encryption)**  
   A cybersecurity project implementing image steganography with chaotic encryption for secure data hiding, achieving 85% accuracy.
 
@@ -66,13 +62,6 @@
 - 🥇 **Python Essentials 1** - Cisco Networking Academy
 - 🥈 **Data Analytics Essentials** - Cisco Networking Academy
 - 🏅 **SQL (Advanced)** - HackerRank
-- 🌟 **Rajapushkar Awardee** - SASTRA Deemed University
-
----
-
-### 🤝 Community Involvement
-- 🌟 **Tech Club at SASTRA** - Organized coding workshops and hackathons
-- 🧠 **Open Source Contributor** - Actively contributing to ML and data analysis projects
 
 ---
 
