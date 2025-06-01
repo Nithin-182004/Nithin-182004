@@ -1,5 +1,5 @@
 
-  <h1>Hi 👋, I'm Nithin R</h1>
+  <h1>Hi 👋, I'm Nithin </h1>
   <p>B.Tech in Information Technology at SASTRA Deemed University | Machine Learning Enthusiast | Data Analyst</p>
 
   <a href="https://www.linkedin.com/in/nithin-r-a568a0227/" target="_blank">
